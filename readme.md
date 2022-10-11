@@ -9,7 +9,7 @@ I love to build and learn using JavaScript and its frameworks, I started my jour
 - 🔭 I’m currently working on building projects to enhance my knowledge
 - 🌱 I’m currently learning Advanced JavaScript and Node JS
 - 👯 I’m looking to collaborate on ReactJS and NextJS Projects
-- 📫 How to reach me: @frontendfox_ on Twitter
+- 📫 How to reach me: @waynesdev on Twitter
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/foxwayne1)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/waynefox_one)
