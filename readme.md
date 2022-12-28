@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋, I'm Wayne Fox
 
-#### Frontend JavaScript Developer
+#### Frontend Developer
 
 <!-- ![Frontend JavaScript Developer](/images/Wayne-Fox.png) -->
 
