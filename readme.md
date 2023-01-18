@@ -12,7 +12,7 @@ I love to build and learn using JavaScript and its frameworks, I started my jour
 - 📫 How to reach me: @waynesdev on Twitter
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/foxwayne1)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/waynesdev)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/beardcodesjs)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://waynefox.dev)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=foxwayne1&show_icons=true)
