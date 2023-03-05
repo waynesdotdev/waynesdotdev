@@ -4,12 +4,9 @@
 
 <!-- ![Frontend JavaScript Developer](/images/Wayne-Fox.png) -->
 
-I love to build and learn using JavaScript and its frameworks, I started my journey a little later than most but that just means I have a lot more life experience to bring to any project
-
 - 🔭 I’m currently working on building projects to enhance my knowledge
-- 🌱 I’m currently learning Advanced JavaScript and Node JS
-- 👯 I’m looking to collaborate on ReactJS and NextJS Projects
-- 📫 How to reach me: @beardcodesjs on Twitter
+- 🌱 I’m currently learning Advanced JavaScript / Node JS / NextJS
+- 📫 How to reach me: @waynethedev on Twitter
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/foxwayne1)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/beardcodesjs)
