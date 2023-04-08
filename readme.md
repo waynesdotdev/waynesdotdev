@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on building projects to enhance my knowledge
 - 🌱 I’m currently learning Advanced JavaScript / Node JS / NextJS
-- 📫 How to reach me: @waynethedev on Twitter
+- 📫 How to reach me: @waynesdev on Twitter
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/foxwayne1)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/beardcodesjs)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://waynefox.dev)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/waynedev)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://waynes.dev)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=foxwayne1&show_icons=true)
 
